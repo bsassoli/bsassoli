@@ -1,10 +1,10 @@
 ### Hi there 👋
-I am Bernardino and I live in Milan :Italy:.
+I am Bernardino and I live in Milan, Italy.
+I picked up programming and coding as a hobby at the beginning of 2020.
+
 
 <!--
 **bsassoli/bsassoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
