@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Bernardino and I live in Milan :Italy:.
 
 <!--
 **bsassoli/bsassoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
